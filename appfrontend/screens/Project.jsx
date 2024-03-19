@@ -36,6 +36,10 @@ const Todo = () => {
       id: '5',
       todo: 'Finish assignments',
     },
+    {
+      id: '6',
+      todo: 'Complete assignments',
+    },
   ];
 
   const [todo, setTodo] = useState('');

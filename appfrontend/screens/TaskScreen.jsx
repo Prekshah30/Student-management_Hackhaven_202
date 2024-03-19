@@ -36,6 +36,10 @@ const TaskScreen = () => {
       id: '5',
       todo: 'Submit assignment',
     },
+    {
+      id: '6',
+      todo: 'Schedule Meet',
+    },
   ];
 
   const [todo, setTodo] = useState('');
